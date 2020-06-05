@@ -170,6 +170,7 @@ h3{
 
 .skill{
   font-family: 'Titillium Web', sans-serif;
+  font-weight: normal;
   font-size: 3rem;
   color: #9c5518;
   line-height: 10px;
@@ -190,7 +191,7 @@ h3{
 }
 
 .sub-title1{
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 1.2rem;
   position: relative;
   left: 5.5rem;
